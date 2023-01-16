@@ -1,0 +1,93 @@
+{
+    "Name":" Muhammad Mubashir",
+    "father":"Muhammad_jamil",
+    "Designation":"Flutter Stack Developer",
+    "Living":"Karachi,Pakistan",
+    "profession":"Over A four year Expeiance in the field of Data Entery Operator\n Working Experiance as a Freelancer",
+    "Education":[
+        
+        {
+            "name":"Naunehal_Academy_School",
+            "title":"Matric",
+            "percentage":"69%",
+            "field":"Computer science",
+            "Board":"Board_of_Secondary Education Karachi",
+            "Passing  grade":"B+",
+            "passing year":"2019",
+            "Address":"Karachi,Pakistan",
+            "Education Importance":"Education provides stability in life, and it's something that no one can ever take away from you. By being well-educated and holding a college degree, you increase your chances for better career opportunities and open up new doors for yourself."
+        },
+        
+        {
+            "name":"Govt Superior Science College Karachi",
+            "title":"Intermediate",
+            "percentage":"82%",
+            "field":"PRE Engineering",
+            "Board":"Board_of_Intermediate Education Karachi",
+            "Passing  grade":"A+",
+            "passing year":"2021",
+            "Address":"Karachi,Pakistan",
+            "Education Importance":"Education provides stability in life, and it's something that no one can ever take away from you. By being well-educated and holding a college degree, you increase your chances for better career opportunities and open up new doors for yourself."
+        },
+        {
+            "name":"Zabist University Karachi",
+            "title":"Bachlore",
+            "field":"Information Technology",
+            "Board":"Board_of_Heigher  Education Karachi",
+            "passing greade":"Appread",
+            "percentage":"Appread",
+            "passing year":"2019  Appread",
+            "Address":"Karachi,Pakistan",
+            "Education Importance":"Education provides stability in life, and it's something that no one can ever take away from you. By being well-educated and holding a college degree, you increase your chances for better career opportunities and open up new doors for yourself."
+
+        }
+    ],
+    "Experiance":[
+        {
+            "company":"Ibex Karachi, Pakistan",
+            "Position":"Data Entery Operator ",
+            "year":"2017-2019",
+            "experiance":"Over A four year Expeiance in the field of Data Entery Operator\n Working Experiance as a Freelancer",
+            "Experiance Description":"Work experience should give you: an understanding\n of the work environment and what employers\n expect of their workers. an opportunity\n to explore possible career options\n. increased self-understanding, maturity, independence and self-confidence."
+        },
+        {
+            "company":"Daraz.Pk, Amazon",
+            "Position":"Freelancer",
+            "year":"2019 Continuous...",
+            "experiance":"Over A four year Expeiance in the field of Data Entery Operator\n Working Experiance as a Freelancer",
+            "Experiance Description":"Work experience should give you: an understanding\n of the work environment and what employers\n expect of their workers. an opportunity\n to explore possible career options\n. increased self-understanding, maturity, independence and self-confidence."
+
+        }
+    ],
+    "Skills":[
+        "Ms Office",
+        "Data Entery Operator",
+        "Freelancer"
+    ],
+    "Contact Number":[
+        {
+            "phone_Number":"0311-0644539",
+            "Emergeny Number":"0300-3523969",
+            "email":"yawaseo791@gamil.com",
+            "Skype":"Muhammad Mubashir"
+        }
+    ],
+    "Hobies":[
+    
+            "football",
+            "Kiting",
+            "Cricket"
+    
+    ],
+    "Personal Information":[
+        {
+            "name":"Muhammad Mubashir",
+            "father name":"Muhammad_jamil",
+            "Living":"Shah faisal Colony Karachi",
+            "Identity Number":"42201_4618845_1",
+            "Place of Birth":"karachi, Pakistan"
+           
+        }
+    ]
+    
+}
